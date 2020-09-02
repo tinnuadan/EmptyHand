@@ -9,12 +9,9 @@ import net.fabricmc.fabric.api.network.ServerSidePacketRegistry;
 import net.minecraft.client.util.InputUtil;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.options.KeyBinding;
-
-import net.minecraft.item.ItemStack;
 import net.minecraft.network.PacketByteBuf;
-import net.minecraft.text.LiteralText;
-import net.minecraft.util.Hand;
 import net.minecraft.util.Identifier;
+
 import org.lwjgl.glfw.GLFW;
 
 
